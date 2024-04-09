@@ -12,5 +12,7 @@ There are various versions here, sources and binaries:
 * gwasl202.zip - Sources and binaries for version 2.02.
 * gwaslp06.zip - Binaries for version 2.03.
 * gwaslp07.zip - Binaries for version 2.04.
+* gwaslp08.zip - Binaries for version 2.05.
 * gwasls06.zip - Sources for version 2.03.
 * gwasls07.zip - Sources for version 2.04.
+* gwasls07.zip - Sources for version 2.05.
